@@ -1,4 +1,7 @@
 # My super amazing thing
 
-Hello World!
+Andrew Ude
+
+
+Introduction: This is the start to my amazing introduction
 
