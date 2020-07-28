@@ -1,4 +1,4 @@
-# My super amazing thing
+ # My super amazing thing
 
 Andrew Ude
 
@@ -8,3 +8,5 @@ Based on results from 2009, Ude (2012).
 
 
 Results: Myu results are really exciting!
+
+Figures: they're so beautiful!
